@@ -1,6 +1,4 @@
-
 Print("Hello World;")
 Print("Everybody;")
 Print("Hello;")
 Print("QQ;")
->>>>>>> feature/new
